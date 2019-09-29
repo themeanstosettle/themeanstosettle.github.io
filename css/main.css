@@ -1,12 +1,12 @@
 ::-moz-selection {
-    background: red;
-    text-shadow: red;
+    background: transparent;
+    text-shadow: transparent;
 }
 
 ::selection {
-    background: red;
-    text-shadow: red;
-    color: red;
+    background: transparent;
+    text-shadow: transparent;
+    color: transparent;
 }
 
 
