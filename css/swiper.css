@@ -30,6 +30,8 @@
   padding: 0px;
   /* Fix of Webkit flickering */
   z-index: 1;
+    background: transparent;
+    color: transparent;
 }
 .swiper-container-no-flexbox .swiper-slide {
   float: left;
@@ -40,6 +42,8 @@
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
+     background: transparent;
+    color: transparent;
 }
 .swiper-wrapper {
   position: relative;
@@ -57,6 +61,8 @@
   transition-property: transform, -webkit-transform;
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
+     background: transparent;
+    color: transparent;
 }
 .swiper-container-android .swiper-slide,
 .swiper-wrapper {
@@ -86,6 +92,8 @@
   -o-transition-property: transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform;
+     background: transparent;
+    color: transparent;
 }
 .swiper-slide-invisible-blank {
   visibility: hidden;
