@@ -6,7 +6,7 @@
 ::selection {
     background: transparent;
     text-shadow: transparent;
-    color: transparent;
+    color: red;
 }
 
 
@@ -139,7 +139,7 @@ body {
 
 #quote{
     width: 90%;
-   padding-right: 30px;
+   padding-right: 10px;
 }
 
 #credit{
@@ -215,6 +215,12 @@ float: right;
     width: 100%;
     display: block;
     height: 40px;
+}
+
+.spacemediumish{
+    width: 100%;
+    display: block;
+    height: 60px;
 }
 
 .spacemedium{
@@ -371,6 +377,11 @@ a.link2:hover {
     display: block;
     height: 50px;
 }
+    .spacemediumish{
+    width: 100%;
+    display: block;
+    height: 40px;
+}
 
 .spacelarge{
     width: 100%;
@@ -440,6 +451,11 @@ a.link2:hover {
     width: 100%;
     display: block;
     height: 40px;
+}
+    .spacemediumish{
+    width: 100%;
+    display: block;
+    height: 30px;
 }
 
 .spacelarge{
@@ -513,6 +529,11 @@ a.link2:hover {
     width: 100%;
     display: block;
     height: 20px;
+}
+    .spacemediumish{
+    width: 100%;
+    display: block;
+    height: 25px;
 }
 
 .spacemedium{
