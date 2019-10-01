@@ -19,7 +19,7 @@
     background: transparent;
     text-shadow: none;
 }
-
+* { -webkit-tap-highlight-color: transparent; } *:focus { outline: none !important; }
 
 .swiper-container {
   margin: 0px;
@@ -89,6 +89,7 @@
   transition-property: transform;
   transition-property: transform, -webkit-transform;
      background: transparent;
+    
 }
 .swiper-slide-invisible-blank {
   visibility: hidden;
