@@ -175,7 +175,10 @@ float: right;
 
 }
 
-
+#datetime{
+        text-align: left;
+        
+    }
 
 
 
@@ -499,6 +502,14 @@ a.link2:hover {
         line-height: 1.5;
     }
     
+    #datetime{
+        align-content: center;
+        text-align: center;
+        width: 100%;
+        margin: auto;
+    }
+    
+    
     .social{
     top: 30px;
     right: 10px;
@@ -520,6 +531,8 @@ a.link2:hover {
     }
     
    .col3 {width: 40%;}
+   .col1 {width: 100%;}
+   .col2 {width: 100%;}
    
     #quote{
     width: 100%;
